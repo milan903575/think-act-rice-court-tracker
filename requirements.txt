@@ -1,0 +1,17 @@
+# Core web framework
+streamlit==1.28.1
+
+# Web scraping and automation 
+selenium==4.24.0
+webdriver-manager==4.0.2
+beautifulsoup4==4.12.3
+requests==2.32.3
+
+# Data handling
+pandas==2.1.4
+
+# Additional utilities
+lxml==5.3.0
+
+# http library
+urllib3==2.0.4
