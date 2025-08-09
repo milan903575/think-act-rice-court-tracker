@@ -1,6 +1,5 @@
 """
-Enhanced Delhi High Court Case Scraper Module
-Web scraping solution with error handling and reliability
+Delhi High Court Case Scraper Module
 """
 
 import sqlite3
